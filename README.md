@@ -18,6 +18,11 @@ BTN2-B; // Recurso Bloqueado
 
 <p align="center"><img src="docs/imagem/godot1.png" alt="arduino" style="width:80%"></p>
 
+## Video Demonstrativo
+
+
+https://github.com/user-attachments/assets/c2fef152-5f60-46ae-8b9a-83b8f45f6fdd
+
 
 ## Ferramentas Ultilizadas
 
